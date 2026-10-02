@@ -4,7 +4,6 @@ A digital Zen garden. Drag across a field of sand to rake patterns into it, pick
 with 3, 4 or 5 teeth, and reset to smooth the sand again.
 
 - **Try it:** [liamaljundi.github.io/Rakeful](https://liamaljundi.github.io/Rakeful/)
-- **Read the reflection:** [REFLECTION.md](REFLECTION.md)
 - **More of my work:** [liamaljundi.com](https://www.liamaljundi.com)
 
 A group project from my first programming course during my Interaction Design studies
